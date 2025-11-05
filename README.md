@@ -13,34 +13,34 @@
 
 ## 🛠 주요 프로젝트 및 기술 스택
 ### 1.TensorFlow & Keras 기반 신경망 모델 개발
-✅ 03_TensorFlow Keras를 활용한 신경망 모델 
-✅ 기본적인 신경망 구조 설계 및 모델 학습 
-✅ 손실 함수(loss function) 및 옵티마이저(optimizer) 설정 
-✅ 모델 성능 평가 (Accuracy, Loss) 
+03_TensorFlow Keras를 활용한 신경망 모델 
+기본적인 신경망 구조 설계 및 모델 학습 
+손실 함수(loss function) 및 옵티마이저(optimizer) 설정 
+모델 성능 평가 (Accuracy, Loss) 
 
 ### 2.CNN(합성곱 신경망) 기반 패션 MNIST 분류 모델
-✅ 05_Fashion_MNIST_0~9_의류_예측하기.ipynb  
-✅ Fashion-MNIST 데이터셋을 활용한 CNN 기반 이미지 분류 모델 구축  
-✅ **Conv2D, MaxPooling, Dropout 적용하여 모델 최적화**  
-✅ 학습된 모델을 활용하여 **의류 이미지 분류 수행**  
+05_Fashion_MNIST_0~9_의류_예측하기.ipynb  
+Fashion-MNIST 데이터셋을 활용한 CNN 기반 이미지 분류 모델 구축  
+**Conv2D, MaxPooling, Dropout 적용하여 모델 최적화**  
+학습된 모델을 활용하여 **의류 이미지 분류 수행**  
 
 ### 3.머신러닝을 활용한 보스턴 주택 가격 예측
-✅ **06_1970년대_보스턴_지역의_주택_가격_예측.ipynb**  
-✅ **Linear Regression, Decision Tree, Random Forest** 등 다양한 모델 비교  
-✅ **MSE(Mean Squared Error), RMSE(Root Mean Squared Error)**를 활용한 모델 성능 평가  
-✅ **주택 가격에 영향을 주는 주요 변수 분석**  
+**06_1970년대_보스턴_지역의_주택_가격_예측.ipynb**  
+**Linear Regression, Decision Tree, Random Forest** 등 다양한 모델 비교  
+**MSE(Mean Squared Error), RMSE(Root Mean Squared Error)**를 활용한 모델 성능 평가  
+**주택 가격에 영향을 주는 주요 변수 분석**  
 
 ### 4.타이타닉 생존자 예측 (Classification)
-✅ **_신경망_모델_-_타이타닉_생존자_예측.ipynb**  
-✅ **로지스틱 회귀(Logistic Regression), SVM(Support Vector Machine), 랜덤 포레스트(Random Forest)** 기반 분류 모델 개발  
-✅ **Feature Engineering 및 데이터 전처리 (결측치 처리, 특성 선택)**  
-✅ **ROC-AUC, Precision-Recall Curve를 활용한 성능 평가**  
+**_신경망_모델_-_타이타닉_생존자_예측.ipynb**  
+**로지스틱 회귀(Logistic Regression), SVM(Support Vector Machine), 랜덤 포레스트(Random Forest)** 기반 분류 모델 개발  
+**Feature Engineering 및 데이터 전처리 (결측치 처리, 특성 선택)**  
+**ROC-AUC, Precision-Recall Curve를 활용한 성능 평가**  
 
 ### 5.컨볼루션 신경망(Convolutional Neural Network) 기반 모델
-✅ **06_TensorFlow Keras를 활용한 컨볼루션신경망.ipynb**  
-✅ **이미지 데이터셋을 활용한 딥러닝 모델 구축**  
-✅ CNN 모델을 **Batch Normalization, Dropout**을 적용하여 일반화 성능 향상  
-✅ 하이퍼파라미터 튜닝을 통한 **최적 모델 탐색**  
+**06_TensorFlow Keras를 활용한 컨볼루션신경망.ipynb**  
+**이미지 데이터셋을 활용한 딥러닝 모델 구축**  
+CNN 모델을 **Batch Normalization, Dropout**을 적용하여 일반화 성능 향상  
+하이퍼파라미터 튜닝을 통한 **최적 모델 탐색**  
 
 ---
 
